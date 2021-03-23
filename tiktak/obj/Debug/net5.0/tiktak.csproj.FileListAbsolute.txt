@@ -1,0 +1,16 @@
+/home/intern/projects/tiktak/bin/Debug/net5.0/tiktak
+/home/intern/projects/tiktak/bin/Debug/net5.0/tiktak.deps.json
+/home/intern/projects/tiktak/bin/Debug/net5.0/tiktak.runtimeconfig.json
+/home/intern/projects/tiktak/bin/Debug/net5.0/tiktak.runtimeconfig.dev.json
+/home/intern/projects/tiktak/bin/Debug/net5.0/tiktak.dll
+/home/intern/projects/tiktak/bin/Debug/net5.0/ref/tiktak.dll
+/home/intern/projects/tiktak/bin/Debug/net5.0/tiktak.pdb
+/home/intern/projects/tiktak/obj/Debug/net5.0/tiktak.csprojAssemblyReference.cache
+/home/intern/projects/tiktak/obj/Debug/net5.0/tiktak.GeneratedMSBuildEditorConfig.editorconfig
+/home/intern/projects/tiktak/obj/Debug/net5.0/tiktak.AssemblyInfoInputs.cache
+/home/intern/projects/tiktak/obj/Debug/net5.0/tiktak.AssemblyInfo.cs
+/home/intern/projects/tiktak/obj/Debug/net5.0/tiktak.csproj.CoreCompileInputs.cache
+/home/intern/projects/tiktak/obj/Debug/net5.0/tiktak.dll
+/home/intern/projects/tiktak/obj/Debug/net5.0/ref/tiktak.dll
+/home/intern/projects/tiktak/obj/Debug/net5.0/tiktak.pdb
+/home/intern/projects/tiktak/obj/Debug/net5.0/tiktak.genruntimeconfig.cache
