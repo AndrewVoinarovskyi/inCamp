@@ -7,12 +7,11 @@ namespace tiktak
         
         static void Main(string[] args)
         {
-            
-
             const char empty = ' ';
             char[,] field = new char[3,3];
             int turn = 0;
-            bool game = false;
+            bool isFinished = false;
+
             for(var i=0; i<3; i++)
             {
                 for(int j=0; j<3; j++)
@@ -20,16 +19,17 @@ namespace tiktak
                     field[i,j] = empty;
                 }
             }
-            GameField(field);
 
-            while (game == false)
+            DrawGameField(field);
+
+            while (!isFinished)
             {
-                game = DetermineWinner(empty, field, game, turn);
+                isFinished = MakeStep(empty, field, turn);
                 turn += 1;
             }
             Console.ReadKey();
         }
-        static void GameField(char[,] Field)
+        static void DrawGameField(char[,] Field)
         {
             const string line = "-+-+-";
             const string vert = "|";
@@ -39,7 +39,7 @@ namespace tiktak
             Console.WriteLine(line);
             Console.WriteLine($"{Field[2, 0]}{vert}{Field[2, 1]}{vert}{Field[2, 2]}");
         }
-        static bool DetermineWinner(char Empty, char[,] Field, bool Game, int turn)
+        static bool MakeStep(char Empty, char[,] Field, int turn)
         {
             const char X = 'X';
             const char O = 'O';
@@ -96,7 +96,10 @@ namespace tiktak
                 }
             }
             while(flag);
-
+            return DetermineWinner(false, Field, Empty, turn, player);
+        }
+        static bool DetermineWinner(bool Game, char[,] Field, char Empty, int turn, int player)
+        {
             Game = (Empty != Field[0,0]) && (Field[0,0] == Field[0,1]) && (Field[0,1] == Field[0,2]) ||
                    (Empty != Field[1,0]) && (Field[1,0] == Field[1,1]) && (Field[1,1] == Field[1,2]) ||
                    (Empty != Field[2,0]) && (Field[2,0] == Field[2,1]) && (Field[2,1] == Field[2,2]) ||
@@ -106,15 +109,14 @@ namespace tiktak
                    (Empty != Field[0,0]) && (Field[0,0] == Field[1,1]) && (Field[1,1] == Field[2,2]) ||
                    (Empty != Field[0,2]) && (Field[0,2] == Field[1,1]) && (Field[1,1] == Field[2,0]);
 
-            GameField(Field);
+            DrawGameField(Field);
             if (Game)
-                Console.WriteLine($"Player {player} is winner");
+                Console.WriteLine($"Player {player} is winner!");
             else if (turn == 8)
             {
                 Game = true;
-                Console.WriteLine("Draw");
+                Console.WriteLine("Draw!");
             }
-
             return Game;
         }
     }
