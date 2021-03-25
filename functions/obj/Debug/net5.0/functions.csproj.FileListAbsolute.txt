@@ -1,0 +1,16 @@
+/home/intern/projects/functions/obj/Debug/net5.0/functions.csprojAssemblyReference.cache
+/home/intern/projects/functions/obj/Debug/net5.0/functions.GeneratedMSBuildEditorConfig.editorconfig
+/home/intern/projects/functions/obj/Debug/net5.0/functions.AssemblyInfoInputs.cache
+/home/intern/projects/functions/obj/Debug/net5.0/functions.AssemblyInfo.cs
+/home/intern/projects/functions/obj/Debug/net5.0/functions.csproj.CoreCompileInputs.cache
+/home/intern/projects/functions/bin/Debug/net5.0/functions
+/home/intern/projects/functions/bin/Debug/net5.0/functions.deps.json
+/home/intern/projects/functions/bin/Debug/net5.0/functions.runtimeconfig.json
+/home/intern/projects/functions/bin/Debug/net5.0/functions.runtimeconfig.dev.json
+/home/intern/projects/functions/bin/Debug/net5.0/functions.dll
+/home/intern/projects/functions/bin/Debug/net5.0/ref/functions.dll
+/home/intern/projects/functions/bin/Debug/net5.0/functions.pdb
+/home/intern/projects/functions/obj/Debug/net5.0/functions.dll
+/home/intern/projects/functions/obj/Debug/net5.0/ref/functions.dll
+/home/intern/projects/functions/obj/Debug/net5.0/functions.pdb
+/home/intern/projects/functions/obj/Debug/net5.0/functions.genruntimeconfig.cache

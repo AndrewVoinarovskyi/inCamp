@@ -1,0 +1,16 @@
+/home/intern/projects/metods/obj/Debug/net5.0/metods.csprojAssemblyReference.cache
+/home/intern/projects/metods/obj/Debug/net5.0/metods.GeneratedMSBuildEditorConfig.editorconfig
+/home/intern/projects/metods/obj/Debug/net5.0/metods.AssemblyInfoInputs.cache
+/home/intern/projects/metods/obj/Debug/net5.0/metods.AssemblyInfo.cs
+/home/intern/projects/metods/obj/Debug/net5.0/metods.csproj.CoreCompileInputs.cache
+/home/intern/projects/metods/bin/Debug/net5.0/metods
+/home/intern/projects/metods/bin/Debug/net5.0/metods.deps.json
+/home/intern/projects/metods/bin/Debug/net5.0/metods.runtimeconfig.json
+/home/intern/projects/metods/bin/Debug/net5.0/metods.runtimeconfig.dev.json
+/home/intern/projects/metods/bin/Debug/net5.0/metods.dll
+/home/intern/projects/metods/bin/Debug/net5.0/ref/metods.dll
+/home/intern/projects/metods/bin/Debug/net5.0/metods.pdb
+/home/intern/projects/metods/obj/Debug/net5.0/metods.dll
+/home/intern/projects/metods/obj/Debug/net5.0/ref/metods.dll
+/home/intern/projects/metods/obj/Debug/net5.0/metods.pdb
+/home/intern/projects/metods/obj/Debug/net5.0/metods.genruntimeconfig.cache
