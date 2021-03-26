@@ -1,0 +1,16 @@
+/home/intern/projects/collections/obj/Debug/net5.0/collections.csprojAssemblyReference.cache
+/home/intern/projects/collections/obj/Debug/net5.0/collections.GeneratedMSBuildEditorConfig.editorconfig
+/home/intern/projects/collections/obj/Debug/net5.0/collections.AssemblyInfoInputs.cache
+/home/intern/projects/collections/obj/Debug/net5.0/collections.AssemblyInfo.cs
+/home/intern/projects/collections/obj/Debug/net5.0/collections.csproj.CoreCompileInputs.cache
+/home/intern/projects/collections/bin/Debug/net5.0/collections
+/home/intern/projects/collections/bin/Debug/net5.0/collections.deps.json
+/home/intern/projects/collections/bin/Debug/net5.0/collections.runtimeconfig.json
+/home/intern/projects/collections/bin/Debug/net5.0/collections.runtimeconfig.dev.json
+/home/intern/projects/collections/bin/Debug/net5.0/collections.dll
+/home/intern/projects/collections/bin/Debug/net5.0/ref/collections.dll
+/home/intern/projects/collections/bin/Debug/net5.0/collections.pdb
+/home/intern/projects/collections/obj/Debug/net5.0/collections.dll
+/home/intern/projects/collections/obj/Debug/net5.0/ref/collections.dll
+/home/intern/projects/collections/obj/Debug/net5.0/collections.pdb
+/home/intern/projects/collections/obj/Debug/net5.0/collections.genruntimeconfig.cache
