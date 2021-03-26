@@ -7,8 +7,8 @@ namespace tiktak
         
         static void Main(string[] args)
         {
-            const char empty = ' ';
-            char[,] field = new char[3,3];
+            const char EMPTY = ' ';
+            char[,] field = new char[3, 3];
             int turn = 0;
             bool isFinished = false;
 
@@ -16,7 +16,7 @@ namespace tiktak
             {
                 for(int j=0; j<3; j++)
                 {
-                    field[i,j] = empty;
+                    field[i,j] = EMPTY;
                 }
             }
 
@@ -24,7 +24,7 @@ namespace tiktak
 
             while (!isFinished)
             {
-                isFinished = MakeStep(empty, field, turn);
+                isFinished = MakeStep(EMPTY, field, turn);
                 turn += 1;
             }
             Console.ReadKey();
