@@ -1,0 +1,16 @@
+/home/intern/projects/class-tictac/obj/Debug/net5.0/class-tictac.csprojAssemblyReference.cache
+/home/intern/projects/class-tictac/obj/Debug/net5.0/class-tictac.GeneratedMSBuildEditorConfig.editorconfig
+/home/intern/projects/class-tictac/obj/Debug/net5.0/class-tictac.AssemblyInfoInputs.cache
+/home/intern/projects/class-tictac/obj/Debug/net5.0/class-tictac.AssemblyInfo.cs
+/home/intern/projects/class-tictac/obj/Debug/net5.0/class-tictac.csproj.CoreCompileInputs.cache
+/home/intern/projects/class-tictac/bin/Debug/net5.0/class-tictac
+/home/intern/projects/class-tictac/bin/Debug/net5.0/class-tictac.deps.json
+/home/intern/projects/class-tictac/bin/Debug/net5.0/class-tictac.runtimeconfig.json
+/home/intern/projects/class-tictac/bin/Debug/net5.0/class-tictac.runtimeconfig.dev.json
+/home/intern/projects/class-tictac/bin/Debug/net5.0/class-tictac.dll
+/home/intern/projects/class-tictac/bin/Debug/net5.0/ref/class-tictac.dll
+/home/intern/projects/class-tictac/bin/Debug/net5.0/class-tictac.pdb
+/home/intern/projects/class-tictac/obj/Debug/net5.0/class-tictac.dll
+/home/intern/projects/class-tictac/obj/Debug/net5.0/ref/class-tictac.dll
+/home/intern/projects/class-tictac/obj/Debug/net5.0/class-tictac.pdb
+/home/intern/projects/class-tictac/obj/Debug/net5.0/class-tictac.genruntimeconfig.cache
